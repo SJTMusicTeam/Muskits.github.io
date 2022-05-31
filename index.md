@@ -30,10 +30,10 @@ For the first stage, we first apply a pre-trained lyric generation model (i.e., 
 
 As this procedure does not directly involve any semantic information but only the prosody information, the theme generation could potentially generate more diverse themes. Therefore, we further use the power of the crowd (i.e., voting) to find a reasonable match. 
 
-### Music score preparation (second stage)
+#### Music score preparation (second stage)
 Given the matched lyrics and music theme, we further produce the melody for the whole song using a melody generation model, which was trained on our fine-grained dataset. Similarly, we conduct the voting to achieve a balance between musical advisors and public taste. With our musical advisors, the music arranger and the songwriter in our team re-organize the matched melody and lyrics into a full music score. We initially expect the song to be performed in solo. However, as we realize several insights from the generated melody and limitation in performances with a single singer, we decide to use a duet-format with both male and female singers. 
 
-### Music production (second stage)
+#### Music production (second stage)
 Because of regional regulations, it is difficult to acquire enough resources (e.g., available singers, recording studios, and musical instrument players). In the music production stage, we minimize the dependency in song production by mostly using the available sources. For musical instruments, we mainly use the available materials from Logic, Kontakt, and Sibelius. Meanwhile, we also use several singing voice synthesis (SVS) models to construct the first demonstration. With neural networks, we can generate reasonable singing voices, but sometimes, it still suffers from rigid performances. To tune outputs from SVS models, we also use a parametric vocoder to allow a visualization over pitch contour in singing voices. This enables even general public to modify the voice for naturalness. In general, the process allows quite fast iterations and remote collaboration overseas.
 
 For the final production, we use both human voices and AI-synthesized voices in the duet and conduct music mixing for better performance.
