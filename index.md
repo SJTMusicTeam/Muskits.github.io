@@ -17,7 +17,8 @@ Our song creation process includes three general stages: Lyric & Theme Generatio
 
 Given the general workflow defined in Section 3.1, our detailed workflow for each stage is illustrated in Figure 2 below. In all the three stages, AI models (i.e., orange blocks), musical specialists (i.e., yellow blocks), and general public (i.e., blue blocks) are interconnected.
 
-![image](https://user-images.githubusercontent.com/22814472/171135391-e215a408-8b65-4803-9e79-8569f8831074.png)
+![image](https://user-images.githubusercontent.com/22814472/171136309-e0d0dfe9-cab5-4d69-9082-89641eb68a62.png)
+
 
 #### Lyric & theme generation (first stage)
 
