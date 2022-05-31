@@ -56,6 +56,8 @@ We care about diverse perspectives in cultural, gender, and musical backgrounds,
 - Gender perspective: For the gender aspect, we initially set the song as an ensemble of males and females. The ensemble voices provide our song creation with the maximum potential.
 - Musical background perspective: All our team members believe that music should be without barriers, especially for those without formal music education. We anticipate a future when everyone with or without musical background can not only enjoy the music but also participate in various steps of music creation. Towards this hope, we conduct the music created by interacting with people with different background knowledge.
 
+## Lyrics
+To add
 
 ## Our team
 
