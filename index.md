@@ -1,3 +1,7 @@
+## Our song
+Music is better than words, please enjoy: (To Add link)
+
+
 ## Motivation and Highlights
 
 Our song creation stems from our thinking about the relationship between humans and artificial intelligence (AI), which was originally designed to support humans by providing assistance with simple problems. However, with the continuous development, we expect that AI will eventually be able to deeply understand human beings and share pleasure with human beings. We imagine this future in our song, which is born through a combination of various deep learning algorithms and in-depth collaboration with humans.
