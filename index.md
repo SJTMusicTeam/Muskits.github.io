@@ -116,25 +116,25 @@ The AIM3 team is a joint team with both musical specialists and AI researchers. 
 
 ### Team members
 
-Jiatong Shi (Producer & AI researcher, Carnegie Mellon University)
+[Jiatong Shi](http://shijt.site/) (Producer & AI researcher, Carnegie Mellon University)
 
 Hang Yin (Music arranger & Songwriter, Xi’an Lingxin Culture Media)
 
-Tao Qian (AI engineer, Renmin University of China & ByteDance AI Lab SA)
+[Tao Qian](https://www.ruc-aim3.com/AIM3-Lab-People.html) (AI engineer, Renmin University of China & ByteDance AI Lab SA)
 
 Keyi Zhang (Songwriter, Zhonghe Capital)
 
-Yuning Wu (AI engineer and imaginary designer, Renmin University of China)
+[Yuning Wu](https://www.ruc-aim3.com/AIM3-Lab-People.html) (AI engineer and imaginary designer, Renmin University of China)
 
-Shuai Guo (AI engineer, Renmin University of China)
+[Shuai Guo](https://www.ruc-aim3.com/AIM3-Lab-People.html) (AI engineer, Renmin University of China)
 
 Zhaodong Yao (Musical advisor, Tottori University)
 
 Huazhe Li (Musical advisor, Tsinghua University)
 
-Peter Wu (Technical advisor, University of California, Berkeley)
+[Peter Wu](https://peter.onrender.com/) (Technical advisor, University of California, Berkeley)
 
-Qin Jin (General advisor, Renmin University of China)
+[Qin Jin](https://www.jin-qin.com/) (General advisor, Renmin University of China)
 
 ## References
 
