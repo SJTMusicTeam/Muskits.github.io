@@ -58,9 +58,9 @@ We care about diverse perspectives in cultural, gender, and musical backgrounds,
 - Musical background perspective: All our team members believe that music should be without barriers, especially for those without formal music education. We anticipate a future when everyone with or without musical background can not only enjoy the music but also participate in various steps of music creation. Towards this hope, we conduct the music created by interacting with people with different background knowledge.
 
 ## Lyrics
-|     Singer                                                       |     AI                                                          |
-|------------------------------------------------------------------|-----------------------------------------------------------------|
 
+|     Singer                                                       |     AI                                                          |
+|:-----------------------------------------------------------------|:----------------------------------------------------------------|
 |     世界曾寂静得一如既往(The   world was as silent as ever)      |                                                                 |
 |     直到你在我身旁   (Until you are by my side)                  |                                                                 |
 |     生命便倔强得无人可挡   (Life is stubborn and unstoppable)    |                                                                 |
