@@ -60,6 +60,7 @@ We care about diverse perspectives in cultural, gender, and musical backgrounds,
 ## Lyrics
 |     Singer                                                       |     AI                                                          |
 |------------------------------------------------------------------|-----------------------------------------------------------------|
+
 |     世界曾寂静得一如既往(The   world was as silent as ever)      |                                                                 |
 |     直到你在我身旁   (Until you are by my side)                  |                                                                 |
 |     生命便倔强得无人可挡   (Life is stubborn and unstoppable)    |                                                                 |
