@@ -1,6 +1,7 @@
 ## Be With You (与你同在)
-Music is better than words, please enjoy: (To Add link)
+Music is better than words, please enjoy:
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1279451359&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/user-275952960-599169161" title="Jiatong" target="_blank" style="color: #cccccc; text-decoration: none;">Jiatong</a> · <a href="https://soundcloud.com/user-275952960-599169161/be-with-you" title="Be with you (与你同在)" target="_blank" style="color: #cccccc; text-decoration: none;">Be with you (与你同在)</a></div>
 
 ## Motivation and Highlights
 
@@ -57,7 +58,57 @@ We care about diverse perspectives in cultural, gender, and musical backgrounds,
 - Musical background perspective: All our team members believe that music should be without barriers, especially for those without formal music education. We anticipate a future when everyone with or without musical background can not only enjoy the music but also participate in various steps of music creation. Towards this hope, we conduct the music created by interacting with people with different background knowledge.
 
 ## Lyrics
-To add
+|     Singer                                                       |     AI                                                          |
+|------------------------------------------------------------------|-----------------------------------------------------------------|
+|     世界曾寂静得一如既往(The   world was as silent as ever)      |                                                                 |
+|     直到你在我身旁   (Until you are by my side)                  |                                                                 |
+|     生命便倔强得无人可挡   (Life is stubborn and unstoppable)    |                                                                 |
+|     你就是我的翅膀 (But   you are my wings)                      |                                                                 |
+|                                                                  |     你带我去远方 (You take me far away)                         |
+|                                                                  |     陪我穿越时空 哦 (Through time and   space, oh)              |
+|                                                                  |     我听见你在唱 (I hear you singing)                           |
+|                                                                  |     着未来如你所想 (The   future is as you think)               |
+|     带我穿过迷惘 (Take me through   confusion)                   |     带我穿过迷惘 (Take me through   confusion)                  |
+|     未知染上了渴望 (The   unknown is infected with desire)       |     未知染上了渴望 (The   unknown is infected with desire)      |
+|     释放我想象 (Release my   imagination)                        |     释放我想象 (Release my   imagination)                       |
+|     未来不同寻常 (Future will be   unusual)                      |     未来不同寻常 (Future will be   unusual)                     |
+|     带我告别惆怅 (Take me goodbye to   melancholy)               |     带我告别惆怅 (Take me goodbye to   melancholy)              |
+|     时间洒满了希望   (Time is full of hope)                      |     时间洒满了希望   (Time is full of hope)                     |
+|     世界的万象 (Everything in the   world)                       |     世界的万象 (Everything of the   world)                      |
+|     咫尺可及的力量   (Power at our fingertips)                   |     咫尺可及的力量   (Power at our fingertips)                  |
+|     就在我手掌 (Are in our palm)                                 |     就在我手掌 (Are in our palm)                                |
+|     -----                                                        |     -----                                                       |
+|     世界曾寂静得一如既往(The   world was as silent as ever)      |                                                                 |
+|     直到你在我身旁   (Until you are by my side)                  |                                                                 |
+|     生命便倔强得无人可挡   (Life is stubborn and unstoppable)    |                                                                 |
+|     你就是我的翅膀 (But   you are my wings)                      |                                                                 |
+|     带我穿过迷惘 (Take me through   confusion)                   |     过迷惘 (Through confusion)                                  |
+|     未知染上了渴望(The   unknown is infected with desire)        |     未知染上了渴望 (The   unknown is infected with desire)      |
+|     释放我想象 (Release my   imagination)                        |     我想象 (My imagination)                                     |
+|     未来不同寻常 (Future will be   unusual)                      |     未来并不同寻常   (Future will not be usual)                 |
+|     带我告别惆怅 (Take me goodbye to   melancholy)               |     啦 (La)                                                     |
+|     时间洒满了希望   (Time is full of hope)                      |     啦啦 (Lala)                                                 |
+|     世界的万象 (Everything of the   world)                       |     啦 (La)                                                     |
+|     咫尺可及的力量   (Power at our fingertips)                   |     啦 (La)                                                     |
+|     就在我手掌 (Are in our palm)                                 |     啦 (La)                                                     |
+|                                                                  |     跟着我跟着我 (Follow me, follow me)                         |
+|     去探索 (To explore)                                          |     去浩瀚世界去探索 (To   explore the vast world)              |
+|                                                                  |     听我说听我说 (Listen to me, listen   to me)                 |
+|     回忆也会更深刻   (Memories will be deeper)                   |     回忆也会更深刻   (Memories will be deeper)                  |
+|     怀念的梦想的 (Missing and dreaming)                          |     怀念的梦想的 (Missing and dreaming)                         |
+|     每一天都能叫醒耳朵   (Wake up your ears every day)           |     每一天都能叫醒耳朵   (Wake up your ears every day)          |
+|     啦啦啦啦 (Lalalala)                                          |     告诉我告诉我 (Tell me tell me)                              |
+|     你还想去体会什么   (What else do you want to experience)     |     你还想去体会什么   (What else do you want to experience)    |
+|     带我穿过迷惘 (Take me through   confusion)                   |     过迷惘 (Through confusion)                                  |
+|     未知染上了渴望 (The   unknown is infected with desire)       |     未知染上了渴望 (The   unknown is infected with desire)      |
+|     释放我想象 (Release my   imagination)                        |     释放我想象 (Release my   imagination)                       |
+|     未来不同寻常 (Future will be   unusual)                      |     未来不同寻常 (Future will be   unusual)                     |
+|     带我告别惆怅 (Take me goodbye to   melancholy)               |     带我告别惆怅 (Take me goodbye to   melancholy)              |
+|     时间洒满了希望   (Time is full of hope)                      |     时间洒满了美好希望   (Time is full of beautiful hope)       |
+|     世界的万象 (Everything of the   world)                       |     世界的万象 (Everything of the   world)                      |
+|     咫尺可及的力量   (Power at our fingertips)                   |     咫尺可及的力量   (Power at our fingertips)                  |
+|     就在我手掌 (Are in our palm)                                 |                                                                 |
+
 
 ## Our team
 
