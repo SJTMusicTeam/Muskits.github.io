@@ -136,3 +136,11 @@ Peter Wu (Technical advisor, University of California, Berkeley)
 
 Qin Jin (General advisor, Renmin University of China)
 
+## References
+
+- https://arxiv.org/abs/1910.10683
+- https://aclanthology.org/2020.acl-main.68/
+- https://arxiv.org/pdf/2109.09617.pdf
+- https://vocalsynth.fandom.com/wiki/ACE_Virtual_Singer
+- https://arxiv.org/pdf/2111.00962.pdf
+- https://arxiv.org/pdf/2004.11012.pdf
